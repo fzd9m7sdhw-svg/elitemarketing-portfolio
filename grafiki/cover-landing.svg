@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675">
+<title>EliteMarketing — okładka OLX: landing page dla firm</title>
+<style>@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500;700;800&amp;display=block');
+text{font-family:Inter,'Segoe UI',Arial,sans-serif}.x{font-weight:800}.m{font-weight:500}</style>
+<defs><linearGradient id="d" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff2d6a"/><stop offset="1" stop-color="#7a1d6b"/></linearGradient></defs>
+<rect width="1200" height="675" fill="#0a0e1a"/>
+<path d="M940 0h260v300z" fill="url(#d)"/><path d="M880 0h80l240 240v80z" fill="#151b30"/>
+<circle cx="1180" cy="660" r="250" fill="none" stroke="#ff2d6a" stroke-width="2" opacity=".6"/>
+<text x="74" y="150" class="x" font-size="64" fill="#fff" letter-spacing="-2">Elite<tspan fill="#ff2d6a">Marketing</tspan></text>
+<rect x="76" y="186" width="124" height="4" rx="2" fill="#ff2d6a"/>
+<text x="72" y="310" class="x" font-size="104" fill="#fff" letter-spacing="-4">Landing page</text>
+<text x="72" y="420" class="x" font-size="104" fill="#ff2d6a" letter-spacing="-4">dla firm.</text>
+<rect x="76" y="468" width="124" height="4" rx="2" fill="#ff2d6a"/>
+<text x="76" y="545" class="x" font-size="40" fill="#fff">5–7 dni <tspan fill="#ff2d6a">· od 1200 zł</tspan></text>
+<g transform="translate(750 58)">
+<rect width="290" height="570" rx="46" fill="#1a1f30" stroke="#3a4058" stroke-width="3"/>
+<rect x="12" y="12" width="266" height="546" rx="36" fill="#0b1020"/>
+<rect x="105" y="26" width="80" height="20" rx="10" fill="#05070f"/>
+<g transform="translate(34 76)"><rect width="16" height="16" fill="#ff2d6a" transform="skewX(-12)"/><text x="24" y="14" class="x" font-size="16" fill="#fff">Elite<tspan fill="#ff2d6a">Marketing</tspan></text>
+<path d="M196 2h20M196 8h20M196 14h20" stroke="#ff2d6a" stroke-width="2.5"/></g>
+<text x="34" y="160" class="x" font-size="27" fill="#fff">Rozwiązania</text>
+<text x="34" y="194" class="x" font-size="27" fill="#ff2d6a">które rozwijają</text>
+<text x="34" y="228" class="x" font-size="27" fill="#fff">Twój biznes.</text>
+<text class="m" font-size="14" fill="#a8b0c4"><tspan x="34" y="266">Landing page dopasowany do</tspan><tspan x="34" y="286">celów, który przyciąga klientów</tspan><tspan x="34" y="306">i generuje wyniki.</tspan></text>
+<rect x="34" y="330" width="196" height="44" rx="8" fill="#ff2d6a"/><text x="52" y="358" class="x" font-size="15" fill="#fff">Zwiększ konwersje →</text>
+<rect x="34" y="398" width="222" height="76" rx="12" fill="none" stroke="#2a3048" stroke-width="2"/>
+<path d="M50 446l14-14 10 10 18-18" stroke="#ff2d6a" stroke-width="3" fill="none"/>
+<text x="106" y="430" class="x" font-size="15" fill="#fff">Więcej leadów.</text><text x="106" y="452" class="x" font-size="15" fill="#ff2d6a">Lepsze wyniki.</text>
+<text x="34" y="512" class="m" font-size="12.5" fill="#a8b0c4">Szybko. Nowocześnie. Skutecznie.</text>
+</g>
+</svg>
